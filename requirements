@@ -1,7 +1,7 @@
+streamlit
 scikit-learn
 numpy
 pandas
 tensorflow
-os
 joblib
 requests
