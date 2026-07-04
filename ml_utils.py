@@ -1,4 +1,6 @@
-import os, joblib, requests
+import os
+import joblib
+import requests
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 from tensorflow.keras.models import Sequential, load_model
