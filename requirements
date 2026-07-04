@@ -3,5 +3,6 @@ scikit-learn
 numpy
 pandas
 tensorflow
-joblib=1.4.2
+joblib
 requests
+pickle
