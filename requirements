@@ -1,8 +1,7 @@
 streamlit
-scikit-learn
 numpy
 pandas
-tensorflow
-joblib
+scikit-learn
+tensorflow==2.15.0
+joblib==1.4.2
 requests
-pickle
